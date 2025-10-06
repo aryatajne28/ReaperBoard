@@ -50,7 +50,8 @@ The case was designed in Fusion360 by refering to the Hackpad case designing gui
 ## BOM
 
 BOM Sheet link: https://docs.google.com/spreadsheets/d/11-HGmM2KwnrwyEzwHYCNCNYylGgngtFtuS71F3h0WvA/edit?usp=sharing
+<img width="1283" height="484" alt="image" src="https://github.com/user-attachments/assets/1ffef6a2-e9ba-44e1-8622-b612a1c61553" />
 
-<img width="1342" height="466" alt="image" src="https://github.com/user-attachments/assets/5ccbdf96-5229-4f11-a01e-8470f048a6c2" />
+
 
 
