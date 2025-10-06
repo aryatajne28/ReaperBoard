@@ -1,0 +1,16 @@
+ReaperBoard BOM,,,,,,,,
+Sr. No.,Product,Name,Link,Unit Price,Quantity,Shipping,Total Price(INR),(USD)
+1,Switches,Akko V3 Lavender Purple Pro Switch (Pack of 45),https://stackskb.com/store/akko-v3-lavender-purple-pro-switch-pack-of-45/,999,2,0,1998,22.50325422
+2,Keycaps,Cotton Candy XDA Profile Keycaps,https://stackskb.com/store/cotton-candy-xda-profile-keycaps/,"2,300",1,0,2300,25.904647
+3,Stabilizers,Durock Clear Screw-In Stabilizers V2,https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/,"1,595",1,0,1595,17.96430955
+4,Diodes,1N4148 Through Holes,https://quartzcomponents.com/products/1n4148-zener-diode?variant=42817413546218,2.1,100,0,210,2.3652069
+5,M3 Screws,M3 * 20mm Screws,https://quartzcomponents.com/collections/nuts-bolts/products/m3-x-20mm-csk-phillips-head-ss202-boltpack-of-10,20,1,0,20,0.2252578
+6,M3 heat inserts,M3 * 4mm heat inserts,https://quartzcomponents.com/collections/nuts-bolts/products/m3-x-4mm-brass-heat-set-threaded-round-insert-nut-10-pcs,28,1,0,28,0.31536092
+7,OLED Screen,"0.91"" OLED Screen",https://quartzcomponents.com/collections/oled/products/0-91-inch-128x32-blue-oled-display-module-with-i2c-iic-serial-interface,110,1,0,110,1.2389179
+8,Capacitors,10uF 0805 SMD Capacitors,https://quartzcomponents.com/products/10uf-10000nf-50v-0805-x7r-smd-capacitor-pack-of-5-pieces?variant=43527004684522,15,20,50,350,3.9420115
+9,Neopixels,SK6812MINI-E,https://www.lcsc.com/product-detail/C5149201.html,6,90,600,1140,12.8396946
+10,PCB,PCB from JLCPCB,JLCPCB,1934.43,1,2896.33,4830.76,54.4083185
+11,Raspberry Pi Pico,Orphues Pico,Hack Club HQ,0,1,0,0,0
+12,Case,3D Printed Case,Printing Legion,0,1,0,0,0
+Total Price,,,,,,,12581.76,141.7069789
+,,,,,,,rupees,dollars
