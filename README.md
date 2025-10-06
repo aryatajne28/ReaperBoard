@@ -49,21 +49,6 @@ The case was designed in Fusion360 by refering to the Hackpad case designing gui
 
 ## BOM
 
+BOM Sheet link: https://docs.google.com/spreadsheets/d/11-HGmM2KwnrwyEzwHYCNCNYylGgngtFtuS71F3h0WvA/edit?usp=sharing
 
-| Name                                                          | Qty | Price (INR) | Link                                                                                                     |
-| ------------------------------------------------------------- | --- | ---------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Gateron G Pro 3.0 Switch Brown                               | 90  | 1620                         | [here](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/) |
-| Cherry Profile PBT Keycaps                                    | 1   | 1399                         | [here](https://curiositycaps.in/products/blue-rose-mechainner-blue-cherry-pbt-keycaps)                   |
-| Durock Smokey Screw-In Stabilizers V2 (4+1 w/ 6.25u spacebar) | 1   | 1595                         | [here](https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/)                                |
-| Diode 1N4148 Through - Hole                                   | 100 | 169                          | [here](https://amzn.in/d/j3eLvoh)                                                                        |
-| 0805 1uF Capacitors                                  | 100 | 409                          | [here](https://www.mouser.in/ProductDetail/Murata-Electronics/GCM21BR71E105KA56K?qs=N3Kl9KD794SvsR%2FkmVvY%2FQ%3D%3D)                                                                        |
-| 0.91" OLED SSD1306                                            | 1   | 278                          | [here](https://amzn.in/d/3cISYEV)                                                                        |
-| M3 x 20mm Bolt (Pack of 15)                                   | 1   | 149                          | [here](https://amzn.in/d/8GRQWAB)                                                                        |
-| M3 mm Bolts - (Pack of 8)                                     | 1   | 108                          | [here](https://amzn.in/d/7UQtsm8)                                                                        |
-| M3 x 5mm Heatset Insert (Pack of 25)                          | 1   | 214                          | [here](https://amzn.in/d/ixybuAc)                                                                        |
-| Orph/Raspberry Pi Pico                                        | 1   | From HackClub HQ             |
-| Top Case ( "Production\Keyboard-Top.step")                      | 1   | From HackClub HQ             |
-| Bottom Case ( "Production\Keyboard-Bottom.step")                | 1   | From HackClub HQ             |
-| Middle Plate ("Production\Plate.step")                     | 1   | From HackClub HQ             |
-| PCB                                            | 1   | From HackClub HQ             |
-
+<img width="1367" height="544" alt="image" src="https://github.com/user-attachments/assets/bd3a773f-dfd7-4a1b-b6b0-7118bcda8dde" />
